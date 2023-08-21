@@ -18,9 +18,9 @@ Determina en qué destinos tiene Andar que cerrar puertas y dejar de entregar, a
 * ¿Cual es el Fee logístico por zona? 
 * ¿Cual es el el costo promedio por cubo entregado en cada zona?
 
-[Documentación 📂](https://github.com/EliasBautista/Curso_Emtech/blob/master/Requerimientos/ProyectoFinal1.pdf) - Aquí se puede consultar y descargar la documentación completa del proyecto.
+[Documentación 📂](https://github.com/EliasBautista/Emtech-VisualizacionDeDatos/blob/main/Requerimientos/Proyecto1.pdf) - Aquí se puede consultar y descargar la documentación completa del proyecto.
 
-[Informe final 📋](https://github.com/EliasBautista/Curso_Emtech/blob/master/Datos/Listas.py) - Aqui se puede consultar el informe final del proyecto.
+[Informe final 📋](https://github.com/EliasBautista/Emtech-VisualizacionDeDatos/blob/main/Informes/Informe_zapatos_ANDAR.pdf) - Aqui se puede consultar el informe final del proyecto.
 
 [Reporte en Google Data Studio 📊](https://lookerstudio.google.com/reporting/95d3547d-8c1b-412b-bb08-32ae1d19ae1f) - Aquí se puede navegar a través de la interfaz del reporte hecho en Google Data Studio
 
@@ -41,9 +41,9 @@ aumentar la inversión?
 * ¿Cuál es el ticket promedio por país?
 * ¿Cuál ha sido el crecimiento promedio mensual de cada canal?
 
-[Documentación 📂](https://github.com/EliasBautista/Curso_Emtech/blob/master/Requerimientos/ProyectoFinal1.pdf) - Aquí se puede consultar y descargar la documentación completa del proyecto.
+[Documentación 📂](https://github.com/EliasBautista/Emtech-VisualizacionDeDatos/blob/main/Requerimientos/Proyecto2.pdf) - Aquí se puede consultar y descargar la documentación completa del proyecto.
 
-[Informe final 📋](https://github.com/EliasBautista/Curso_Emtech/blob/master/Datos/Listas.py) - Aqui se puede consultar el informe final del proyecto.
+[Informe final 📋](https://github.com/EliasBautista/Emtech-VisualizacionDeDatos/blob/main/Informes/Informe_Ecommerce.pdf) - Aqui se puede consultar el informe final del proyecto.
 
 [Reporte en Google Data Studio 📊](https://lookerstudio.google.com/s/sW9BpCKkC5c) - Aquí se puede navegar a través de la interfaz del reporte hecho en Google Data Studio
 
@@ -67,8 +67,17 @@ página web.
 * Adquisición de los usuarios.
 * Comportamiento de los usuarios dentro de la página web.
 
-[Documentación 📂](https://github.com/EliasBautista/Curso_Emtech/blob/master/Requerimientos/ProyectoFinal1.pdf) - Aquí se puede consultar y descargar la documentación completa del proyecto.
+[Documentación 📂](https://github.com/EliasBautista/Emtech-VisualizacionDeDatos/blob/main/Requerimientos/Proyecto3.pdf) - Aquí se puede consultar y descargar la documentación completa del proyecto.
 
-[Informe final 📋](https://github.com/EliasBautista/Curso_Emtech/blob/master/Datos/Listas.py) - Aqui se puede consultar el informe final del proyecto.
+[Informe final 📋](https://github.com/EliasBautista/Emtech-VisualizacionDeDatos/blob/main/Informes/Informe_Andar.pdf) - Aqui se puede consultar el informe final del proyecto.
 
 [Reporte en Google Data Studio 📊](https://lookerstudio.google.com/s/gSLOm5A0FGA) - Aquí se puede navegar a través de la interfaz del reporte hecho en Google Data Studio
+
+## Autores ✒️
+
+
+* **Elias Bautista** - *Desarrollador* - [GitHub](https://github.com/EliasBautista)
+
+## Expresiones de Gratitud 🎁
+
+Gracias por ver este repositorio y a toda la comunidad Emtech que creo estos contenidos para poder retar mis conocimientos en visualización de datos.
